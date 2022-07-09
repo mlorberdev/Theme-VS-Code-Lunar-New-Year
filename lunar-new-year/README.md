@@ -1,4 +1,6 @@
-# Lunar New Year Theme
+# Lunar New Year (설날)
+
+## Screenshots
 
 <figure>
 <figcaption>HTML</figcaption>
@@ -27,6 +29,10 @@
 3. Once installed, enable the theme from the ***Color Theme*** drop down list:
 
     > File > Preferences > Color Theme > Lunar New Year
+
+## Authors
+
+Matt Lorber | mlorber.dev@outlook.com
 
 ## License
 Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/
